@@ -1,4 +1,4 @@
-const apiKey = "lDZqTdq5EnHX1Ox4k7RBBIYNSkat6nTsbn_Ksk5ebi7OxEsBoXuxmPOjdQukXvYJe8i1VgxIZnFw-NVCuDE0JEW6EWFZo0iB6ANEruEyW66bFM_jq8w1MKqhB-P9ZHYx"; // Insert API key here.
+const apiKey = ""; // Insert your own API key here. I have removed mine for security
 
 const Yelp = {
   search(term, location, sortBy) {
